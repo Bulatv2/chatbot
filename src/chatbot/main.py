@@ -1,8 +1,8 @@
 import tkinter
 from tkinter import scrolledtext
 import logging
-from indexing import Indexing
-from ftsearch import Ftsearch
+from fts.indexing import Indexing
+from fts.ftsearch import Ftsearch
 from nlp.words import Words
 
 

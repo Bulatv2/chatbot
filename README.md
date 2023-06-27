@@ -2,4 +2,4 @@
 
 chatbot in QA
 
-requirements: nlp from my repository
+requirements: nlp, full-text-search from my repository
